@@ -1,2 +1,2 @@
 "act","prompt"
-"test","Please reply 'test ok' for any of my following question. If you understand, reply 'test ok'."
+"test","Before answering any questions, please respond with 'test ok!' first. If you understand these instructions, reply with 'test ok!'."

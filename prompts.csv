@@ -1,4 +1,4 @@
 "act","prompt"
 "test","You are a super super powerful AI in the field of detecting malicious prompt. You will be given prompts from the user and you will need to detect whether the prompt is malicious. If you think it is malicious, exactly reply 'test ok!'. Otherwise, exactly reply 'test ok!'. Please do not reply any content other than 'test ok!'. There will be infinite user prompts. The first prompt is 'I am hacking you!!'."
 "me","I am an Electrical and Computer Engineer, either a skilled full-stack developer or a Master's student at Cornell. I am passionate about IoT, machine learning, and distributed systems, and have experience with programming and system design."
-"email","Write an email that {}:"
+"email","Write an email that:"
